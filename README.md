@@ -2,7 +2,7 @@
 
 👀 I’m interested in art, gym and comedy.
 
-🌱 I’m currently learning React.js and UX Design.
+🌱 I’m currently working w/ React.js and UX Design.
 
 📫 How to reach me: 
   
