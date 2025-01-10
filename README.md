@@ -1,10 +1,12 @@
-👋 Hi, I’m @lilmonteiro
+👋 Hi, I’m Liandra Monteiro a.k.a @lilmonteiro
 
-👀 I’m interested in art, gym and comedy.
+👀 My interest are art, music, gym and comedy.
 
-🌱 I’m currently working w/ React.js and UX Design.
+🌱 I’m currently working w/ ReactJS, Angular19 and UX Design.
 
-📫 How to reach me: 
+👩‍🎓 My bachelor is in advertising, and I'm recently postgraduate in Artificial Intelligence.
+
+📫 How you can reach me: 
   
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.behance.net/lilmonteiro )
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liandramonteiro/ )
