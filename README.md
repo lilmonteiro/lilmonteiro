@@ -1,4 +1,4 @@
-# Prazer, Liandra Monteiro
+# Welcome, I'm Liandra Monteiro
 *Software Engineer, Frontend, Product Design, UX/ UI*
 
 ### 🛠️ My Skills
