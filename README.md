@@ -27,6 +27,11 @@
 - FIAP/PósTech: Mentor Teacher @ Frontend Engineering
 - REPLICA: Product Designer @ Replica Platform
 
+### 🤓 Currently Studying:
+- Artificial Intelligence
+- Harvard CS50 
+- Reactjs and Angular @ Alura / FIAP
+
 ## 📫 Contact me! 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liandramonteiro/ )
 
