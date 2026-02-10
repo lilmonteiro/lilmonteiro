@@ -1,5 +1,5 @@
 # Prazer, Liandra Monteiro
-*Software Developer, Designer*
+*Software Engineer, Frontend, Product Design, UX/ UI*
 
 ### 🛠️ My Skills
 
